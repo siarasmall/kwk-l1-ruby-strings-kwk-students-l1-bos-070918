@@ -1,4 +1,5 @@
 # Code your prompts here!
+"Hi, you've been invited to a party! What is your name?"
 puts "What is guest's name?"
 guest_name= gets.chomp
 puts "What is the party's name?"
